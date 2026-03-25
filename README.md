@@ -11,6 +11,7 @@ A curated list of open-source projects for autonomous and agentic research.
 - [AI Scientist Family & Deep Scientist](#ai-scientist-family--deep-scientist)
 - [AutoResearch Loop Variants](#autoresearch-loop-variants)
 - [OpenClaw Research Workspace Ecosystem](#openclaw-research-workspace-ecosystem)
+- [Auto Research Benchmarks](#auto-research-benchmarks)
 - [Deep Research Infrastructure & Tools](#deep-research-infrastructure--tools)
 
 ## End-to-End Autonomous Research Systems
@@ -144,6 +145,36 @@ A curated list of open-source projects for autonomous and agentic research.
 - [py0330/aris](https://github.com/py0330/aris)
   [![GitHub stars](https://img.shields.io/github/stars/py0330/aris?style=flat)](https://github.com/py0330/aris)
   - ARIS-related lightweight project in the auto-research ecosystem.
+
+## Auto Research Benchmarks
+
+- [ServiceNow/drbench](https://github.com/ServiceNow/drbench)
+  [![GitHub stars](https://img.shields.io/github/stars/ServiceNow/drbench?style=flat)](https://github.com/ServiceNow/drbench)
+  - Enterprise-oriented deep research benchmark for evaluating agent quality and report usefulness.
+
+- [QuantaAlpha/VideoDR-Benchmark](https://github.com/QuantaAlpha/VideoDR-Benchmark)
+  [![GitHub stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark?style=flat)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
+  - Benchmark suite targeting multimodal/video deep research scenarios.
+
+- [CoinStatsHQ/ai-crypto-deep-research-benchmark](https://github.com/CoinStatsHQ/ai-crypto-deep-research-benchmark)
+  [![GitHub stars](https://img.shields.io/github/stars/CoinStatsHQ/ai-crypto-deep-research-benchmark?style=flat)](https://github.com/CoinStatsHQ/ai-crypto-deep-research-benchmark)
+  - Domain benchmark with prompts and evaluators for crypto-focused deep-research outputs.
+
+- [onyx-dot-app/onyx_deep_research_bench](https://github.com/onyx-dot-app/onyx_deep_research_bench)
+  [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx_deep_research_bench?style=flat)](https://github.com/onyx-dot-app/onyx_deep_research_bench)
+  - Open benchmark submission repo focused on reproducible deep-research evaluation workflows.
+
+- [hflyzju/Awesome-AI-Scientist-Benchmarks](https://github.com/hflyzju/Awesome-AI-Scientist-Benchmarks)
+  [![GitHub stars](https://img.shields.io/github/stars/hflyzju/Awesome-AI-Scientist-Benchmarks?style=flat)](https://github.com/hflyzju/Awesome-AI-Scientist-Benchmarks)
+  - Curated index of AI Scientist benchmark resources.
+
+- [openai/simple-evals](https://github.com/openai/simple-evals)
+  [![GitHub stars](https://img.shields.io/github/stars/openai/simple-evals?style=flat)](https://github.com/openai/simple-evals)
+  - Lightweight eval framework often used to score agent/research-task performance.
+
+- [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench)
+  [![GitHub stars](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=flat)](https://github.com/SWE-bench/SWE-bench)
+  - Widely used benchmark for real-world software task solving, useful for research-agent engineering evaluation.
 
 ## Deep Research Infrastructure & Tools
 
