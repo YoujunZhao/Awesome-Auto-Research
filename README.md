@@ -148,6 +148,38 @@ A curated list of open-source projects for autonomous and agentic research.
 
 ## Auto Research Benchmarks
 
+- [web-arena-x/webarena](https://github.com/web-arena-x/webarena)
+  [![GitHub stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=flat)](https://github.com/web-arena-x/webarena)
+  - Foundational benchmark environment for evaluating autonomous web agents on realistic tasks.
+
+- [ServiceNow/webarena-verified](https://github.com/ServiceNow/webarena-verified)
+  [![GitHub stars](https://img.shields.io/github/stars/ServiceNow/webarena-verified?style=flat)](https://github.com/ServiceNow/webarena-verified)
+  - Verified/cleaned WebArena variant for more reproducible benchmark evaluation.
+
+- [TheAgentCompany/TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany)
+  [![GitHub stars](https://img.shields.io/github/stars/TheAgentCompany/TheAgentCompany?style=flat)](https://github.com/TheAgentCompany/TheAgentCompany)
+  - Benchmark tasks set in a simulated software company for long-horizon agent evaluation.
+
+- [THUDM/DataSciBench](https://github.com/THUDM/DataSciBench)
+  [![GitHub stars](https://img.shields.io/github/stars/THUDM/DataSciBench?style=flat)](https://github.com/THUDM/DataSciBench)
+  - Data-science-focused LLM agent benchmark with realistic analytical workflows.
+
+- [claw-bench/claw-bench](https://github.com/claw-bench/claw-bench)
+  [![GitHub stars](https://img.shields.io/github/stars/claw-bench/claw-bench?style=flat)](https://github.com/claw-bench/claw-bench)
+  - General benchmark suite targeting broad AI agent capabilities.
+
+- [SamuelSchmidgall/AgentClinic](https://github.com/SamuelSchmidgall/AgentClinic)
+  [![GitHub stars](https://img.shields.io/github/stars/SamuelSchmidgall/AgentClinic?style=flat)](https://github.com/SamuelSchmidgall/AgentClinic)
+  - Domain benchmark for medical diagnosis and clinical reasoning agents.
+
+- [uiuc-kang-lab/agentic-benchmarks](https://github.com/uiuc-kang-lab/agentic-benchmarks)
+  [![GitHub stars](https://img.shields.io/github/stars/uiuc-kang-lab/agentic-benchmarks?style=flat)](https://github.com/uiuc-kang-lab/agentic-benchmarks)
+  - Collection of benchmark assets for evaluating emerging agentic systems.
+
+- [agential-ai/awesome-language-agent-benchmarks](https://github.com/agential-ai/awesome-language-agent-benchmarks)
+  [![GitHub stars](https://img.shields.io/github/stars/agential-ai/awesome-language-agent-benchmarks?style=flat)](https://github.com/agential-ai/awesome-language-agent-benchmarks)
+  - Curated benchmark index for language-agent evaluation tasks and datasets.
+
 - [ServiceNow/drbench](https://github.com/ServiceNow/drbench)
   [![GitHub stars](https://img.shields.io/github/stars/ServiceNow/drbench?style=flat)](https://github.com/ServiceNow/drbench)
   - Enterprise-oriented deep research benchmark for evaluating agent quality and report usefulness.
