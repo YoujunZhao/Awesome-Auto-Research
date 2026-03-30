@@ -184,6 +184,14 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/ServiceNow/drbench?style=flat)](https://github.com/ServiceNow/drbench)
   - Enterprise-oriented deep research benchmark for evaluating agent quality and report usefulness.
 
+- [Future-House/aviary](https://github.com/Future-House/aviary)
+  [![GitHub stars](https://img.shields.io/github/stars/Future-House/aviary?style=flat)](https://github.com/Future-House/aviary)
+  - Language-agent gym with challenging scientific tasks for evaluating research-capable agents.
+
+- [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench)
+  [![GitHub stars](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench?style=flat)](https://github.com/Ayanami0730/deep_research_bench)
+  - Comprehensive benchmark suite focused on deep research agent performance.
+
 - [QuantaAlpha/VideoDR-Benchmark](https://github.com/QuantaAlpha/VideoDR-Benchmark)
   [![GitHub stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark?style=flat)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
   - Benchmark suite targeting multimodal/video deep research scenarios.
