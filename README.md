@@ -68,6 +68,14 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=flat)](https://github.com/SWE-agent/SWE-agent)
   - Autonomous software issue-solving agent frequently used for research engineering loops.
 
+- [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker)
+  [![GitHub stars](https://img.shields.io/github/stars/MiroMindAI/MiroThinker?style=flat)](https://github.com/MiroMindAI/MiroThinker)
+  - High-performing deep research agent focused on complex investigation and prediction tasks.
+
+- [mshumer/autonomous-researcher](https://github.com/mshumer/autonomous-researcher)
+  [![GitHub stars](https://img.shields.io/github/stars/mshumer/autonomous-researcher?style=flat)](https://github.com/mshumer/autonomous-researcher)
+  - Multi-agent autonomous research system that decomposes objectives into experiments and paper-style outputs.
+
 ## AI Scientist Family & Deep Scientist
 
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
@@ -97,6 +105,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [AgentAlphaAGI/Idea2Paper](https://github.com/AgentAlphaAGI/Idea2Paper)
   [![GitHub stars](https://img.shields.io/github/stars/AgentAlphaAGI/Idea2Paper?style=flat)](https://github.com/AgentAlphaAGI/Idea2Paper)
   - Transforms research ideas into structured paper outputs.
+
+- [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse)
+  [![GitHub stars](https://img.shields.io/github/stars/mims-harvard/ToolUniverse?style=flat)](https://github.com/mims-harvard/ToolUniverse)
+  - Open AI-scientist tooling ecosystem (MCP + datasets + eval workflows) for reproducible research-agent builds.
 
 ## AutoResearch Loop Variants
 
@@ -211,6 +223,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [openai/simple-evals](https://github.com/openai/simple-evals)
   [![GitHub stars](https://img.shields.io/github/stars/openai/simple-evals?style=flat)](https://github.com/openai/simple-evals)
   - Lightweight eval framework often used to score agent/research-task performance.
+
+- [texttron/BrowseComp-Plus](https://github.com/texttron/BrowseComp-Plus)
+  [![GitHub stars](https://img.shields.io/github/stars/texttron/BrowseComp-Plus?style=flat)](https://github.com/texttron/BrowseComp-Plus)
+  - Reproducible deep-research benchmark built on a fixed corpus for transparent retriever/agent comparison.
 
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench)
   [![GitHub stars](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=flat)](https://github.com/SWE-bench/SWE-bench)
