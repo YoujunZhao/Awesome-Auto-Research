@@ -36,6 +36,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=flat)](https://github.com/assafelovic/gpt-researcher)
   - Autonomous deep research agent for citation-rich reports.
 
+- [dzhng/deep-research](https://github.com/dzhng/deep-research)
+  [![GitHub stars](https://img.shields.io/github/stars/dzhng/deep-research?style=flat)](https://github.com/dzhng/deep-research)
+  - Lightweight but influential deep-research reference implementation with iterative planning + web evidence collection.
+
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
   [![GitHub stars](https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=flat)](https://github.com/kaixindelele/ChatPaper)
   - Automates paper summarization/translation/review workflows for researchers.
@@ -97,6 +101,14 @@ A curated list of open-source projects for autonomous and agentic research.
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
   [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=flat)](https://github.com/SkyworkAI/DeepResearchAgent)
   - Hierarchical multi-agent architecture for deep research.
+
+- [Tencent/CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro)
+  [![GitHub stars](https://img.shields.io/github/stars/Tencent/CognitiveKernel-Pro?style=flat)](https://github.com/Tencent/CognitiveKernel-Pro)
+  - Tencent AI Lab deep-research agent project with accompanying paper and reproducible code.
+
+- [AQ-MedAI/MedResearcher-R1](https://github.com/AQ-MedAI/MedResearcher-R1)
+  [![GitHub stars](https://img.shields.io/github/stars/AQ-MedAI/MedResearcher-R1?style=flat)](https://github.com/AQ-MedAI/MedResearcher-R1)
+  - Medical-domain deep research agent built around knowledge-informed trajectory synthesis.
 
 - [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni)
   [![GitHub stars](https://img.shields.io/github/stars/snap-stanford/Biomni?style=flat)](https://github.com/snap-stanford/Biomni)
@@ -203,6 +215,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench)
   [![GitHub stars](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench?style=flat)](https://github.com/Ayanami0730/deep_research_bench)
   - Comprehensive benchmark suite focused on deep research agent performance.
+
+- [ByteDance-BandAI/ReportBench](https://github.com/ByteDance-BandAI/ReportBench)
+  [![GitHub stars](https://img.shields.io/github/stars/ByteDance-BandAI/ReportBench?style=flat)](https://github.com/ByteDance-BandAI/ReportBench)
+  - Benchmark for evaluating deep-research agents on academic survey/report-generation tasks.
 
 - [QuantaAlpha/VideoDR-Benchmark](https://github.com/QuantaAlpha/VideoDR-Benchmark)
   [![GitHub stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark?style=flat)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
