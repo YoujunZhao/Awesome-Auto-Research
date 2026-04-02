@@ -126,6 +126,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/mims-harvard/ToolUniverse?style=flat)](https://github.com/mims-harvard/ToolUniverse)
   - Open AI-scientist tooling ecosystem (MCP + datasets + eval workflows) for reproducible research-agent builds.
 
+- [polyuiislab/infiAgent](https://github.com/polyuiislab/infiAgent)
+  [![GitHub stars](https://img.shields.io/github/stars/polyuiislab/infiAgent?style=flat)](https://github.com/polyuiislab/infiAgent)
+  - Infinite-horizon agent framework for building configurable AI Scientist/Cowork-style research systems.
+
 ## AutoResearch Loop Variants
 
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
@@ -157,6 +161,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [EvoScientist/EvoScientist](https://github.com/EvoScientist/EvoScientist)
   [![GitHub stars](https://img.shields.io/github/stars/EvoScientist/EvoScientist?style=flat)](https://github.com/EvoScientist/EvoScientist)
   - Self-evolving AI scientist workspace.
+
+- [sjtu-sai-agents/MagiClaw](https://github.com/sjtu-sai-agents/MagiClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/MagiClaw?style=flat)](https://github.com/sjtu-sai-agents/MagiClaw)
+  - Conversational command center for orchestrating scientific multi-agent teams.
 
 - [OpenLAIR/dr-claw](https://github.com/OpenLAIR/dr-claw)
   [![GitHub stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=flat)](https://github.com/OpenLAIR/dr-claw)
@@ -215,6 +223,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [Future-House/aviary](https://github.com/Future-House/aviary)
   [![GitHub stars](https://img.shields.io/github/stars/Future-House/aviary?style=flat)](https://github.com/Future-House/aviary)
   - Language-agent gym with challenging scientific tasks for evaluating research-capable agents.
+
+- [facebookresearch/MLGym](https://github.com/facebookresearch/MLGym)
+  [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/MLGym?style=flat)](https://github.com/facebookresearch/MLGym)
+  - Framework + benchmark environment for advancing and stress-testing AI research agents.
 
 - [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench)
   [![GitHub stars](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench?style=flat)](https://github.com/Ayanami0730/deep_research_bench)
