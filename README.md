@@ -80,6 +80,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/mshumer/autonomous-researcher?style=flat)](https://github.com/mshumer/autonomous-researcher)
   - Multi-agent autonomous research system that decomposes objectives into experiments and paper-style outputs.
 
+- [virattt/dexter](https://github.com/virattt/dexter)
+  [![GitHub stars](https://img.shields.io/github/stars/virattt/dexter?style=flat)](https://github.com/virattt/dexter)
+  - Autonomous deep-research agent specialized for long-horizon financial diligence and report generation.
+
 ## AI Scientist Family & Deep Scientist
 
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
@@ -253,6 +257,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
   [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=flat)](https://github.com/langchain-ai/open_deep_research)
   - Configurable open deep-research framework for long-form investigation.
+
+- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)
+  [![GitHub stars](https://img.shields.io/github/stars/nickscamara/open-deep-research?style=flat)](https://github.com/nickscamara/open-deep-research)
+  - Popular open-source deep-research agent implementation focused on practical web-scale evidence gathering.
 
 - [AkariAsai/OpenScholar](https://github.com/AkariAsai/OpenScholar)
   [![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat)](https://github.com/AkariAsai/OpenScholar)
