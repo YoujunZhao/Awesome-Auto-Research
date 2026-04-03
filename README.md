@@ -182,9 +182,6 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/nanoAgentTeam/research-claw?style=flat)](https://github.com/nanoAgentTeam/research-claw)
   - Self-hosted assistant for literature management and research planning.
 
-- [py0330/aris](https://github.com/py0330/aris)
-  [![GitHub stars](https://img.shields.io/github/stars/py0330/aris?style=flat)](https://github.com/py0330/aris)
-  - ARIS-related lightweight project in the auto-research ecosystem.
 
 ## Auto Research Benchmarks
 
