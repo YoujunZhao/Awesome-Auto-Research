@@ -40,6 +40,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/dzhng/deep-research?style=flat)](https://github.com/dzhng/deep-research)
   - Lightweight but influential deep-research reference implementation with iterative planning + web evidence collection.
 
+- [shibing624/WebResearcher](https://github.com/shibing624/WebResearcher)
+  [![GitHub stars](https://img.shields.io/github/stars/shibing624/WebResearcher?style=flat)](https://github.com/shibing624/WebResearcher)
+  - Iterative deep-research agent focused on web evidence collection and report generation.
+
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
   [![GitHub stars](https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=flat)](https://github.com/kaixindelele/ChatPaper)
   - Automates paper summarization/translation/review workflows for researchers.
@@ -231,6 +235,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench)
   [![GitHub stars](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench?style=flat)](https://github.com/Ayanami0730/deep_research_bench)
   - Comprehensive benchmark suite focused on deep research agent performance.
+
+- [OPPO-PersonalAI/FINDER_DEFT](https://github.com/OPPO-PersonalAI/FINDER_DEFT)
+  [![GitHub stars](https://img.shields.io/github/stars/OPPO-PersonalAI/FINDER_DEFT?style=flat)](https://github.com/OPPO-PersonalAI/FINDER_DEFT)
+  - Official code for a deep-research-agent evaluation paper analyzing progress toward genuinely useful assistants.
 
 - [ByteDance-BandAI/ReportBench](https://github.com/ByteDance-BandAI/ReportBench)
   [![GitHub stars](https://img.shields.io/github/stars/ByteDance-BandAI/ReportBench?style=flat)](https://github.com/ByteDance-BandAI/ReportBench)
