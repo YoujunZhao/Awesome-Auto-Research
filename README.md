@@ -24,6 +24,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat)](https://github.com/bytedance/deer-flow)
   - Open-source super-agent harness for long-horizon research, coding, and artifact generation.
 
+- [bytedance/pasa](https://github.com/bytedance/pasa)
+  [![GitHub stars](https://img.shields.io/github/stars/bytedance/pasa?style=flat)](https://github.com/bytedance/pasa)
+  - Agentic paper-search system that iteratively reads and selects references for complex scholarly queries.
+
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
   [![GitHub stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=flat)](https://github.com/karpathy/autoresearch)
   - Canonical autonomous loop for iterative experiment optimization.
@@ -278,6 +282,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)
   [![GitHub stars](https://img.shields.io/github/stars/nickscamara/open-deep-research?style=flat)](https://github.com/nickscamara/open-deep-research)
   - Popular open-source deep-research agent implementation focused on practical web-scale evidence gathering.
+
+- [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+  [![GitHub stars](https://img.shields.io/github/stars/zilliztech/deep-searcher?style=flat)](https://github.com/zilliztech/deep-searcher)
+  - Open-source deep-research framework for iterative retrieval + reasoning on private or public corpora.
 
 - [AkariAsai/OpenScholar](https://github.com/AkariAsai/OpenScholar)
   [![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat)](https://github.com/AkariAsai/OpenScholar)
