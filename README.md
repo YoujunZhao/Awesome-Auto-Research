@@ -160,6 +160,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/eimenhmdt/autoresearcher?style=flat)](https://github.com/eimenhmdt/autoresearcher)
   - Automation toolkit for scientific workflow execution.
 
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+  [![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+  - ARIS markdown-skill autoresearch workflow for autonomous ML idea exploration, cross-model review, and experiment iteration.
+
 - [mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy)
   [![GitHub stars](https://img.shields.io/github/stars/mattprusak/autoresearch-genealogy?style=flat)](https://github.com/mattprusak/autoresearch-genealogy)
   - Domain adaptation of autoresearch templates for genealogy research.
@@ -186,6 +190,9 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/nanoAgentTeam/research-claw?style=flat)](https://github.com/nanoAgentTeam/research-claw)
   - Self-hosted assistant for literature management and research planning.
 
+- [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/ymx10086/ResearchClaw?style=flat)](https://github.com/ymx10086/ResearchClaw)
+  - Personal research assistant workspace emphasizing literature review, experiment tracking, and end-to-end paper workflow automation.
 
 ## Auto Research Benchmarks
 
@@ -244,6 +251,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [ByteDance-BandAI/ReportBench](https://github.com/ByteDance-BandAI/ReportBench)
   [![GitHub stars](https://img.shields.io/github/stars/ByteDance-BandAI/ReportBench?style=flat)](https://github.com/ByteDance-BandAI/ReportBench)
   - Benchmark for evaluating deep-research agents on academic survey/report-generation tasks.
+
+- [InternScience/ResearchClawBench](https://github.com/InternScience/ResearchClawBench)
+  [![GitHub stars](https://img.shields.io/github/stars/InternScience/ResearchClawBench?style=flat)](https://github.com/InternScience/ResearchClawBench)
+  - Benchmark suite for automated research agents spanning re-discovery and new-discovery evaluation settings.
 
 - [QuantaAlpha/VideoDR-Benchmark](https://github.com/QuantaAlpha/VideoDR-Benchmark)
   [![GitHub stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark?style=flat)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
