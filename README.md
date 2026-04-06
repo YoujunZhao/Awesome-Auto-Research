@@ -84,6 +84,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/MiroMindAI/MiroThinker?style=flat)](https://github.com/MiroMindAI/MiroThinker)
   - High-performing deep research agent focused on complex investigation and prediction tasks.
 
+- [TIGER-AI-Lab/OpenResearcher](https://github.com/TIGER-AI-Lab/OpenResearcher)
+  [![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher?style=flat)](https://github.com/TIGER-AI-Lab/OpenResearcher)
+  - Fully open pipeline for long-horizon deep-research trajectory synthesis and training data generation.
+
 - [mshumer/autonomous-researcher](https://github.com/mshumer/autonomous-researcher)
   [![GitHub stars](https://img.shields.io/github/stars/mshumer/autonomous-researcher?style=flat)](https://github.com/mshumer/autonomous-researcher)
   - Multi-agent autonomous research system that decomposes objectives into experiments and paper-style outputs.
@@ -252,6 +256,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/ByteDance-BandAI/ReportBench?style=flat)](https://github.com/ByteDance-BandAI/ReportBench)
   - Benchmark for evaluating deep-research agents on academic survey/report-generation tasks.
 
+- [SalesforceAIResearch/LiveResearchBench](https://github.com/SalesforceAIResearch/LiveResearchBench)
+  [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/LiveResearchBench?style=flat)](https://github.com/SalesforceAIResearch/LiveResearchBench)
+  - Live benchmark and evaluation framework for open-ended deep-research tasks in the wild.
+
 - [InternScience/ResearchClawBench](https://github.com/InternScience/ResearchClawBench)
   [![GitHub stars](https://img.shields.io/github/stars/InternScience/ResearchClawBench?style=flat)](https://github.com/InternScience/ResearchClawBench)
   - Benchmark suite for automated research agents spanning re-discovery and new-discovery evaluation settings.
@@ -279,6 +287,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [texttron/BrowseComp-Plus](https://github.com/texttron/BrowseComp-Plus)
   [![GitHub stars](https://img.shields.io/github/stars/texttron/BrowseComp-Plus?style=flat)](https://github.com/texttron/BrowseComp-Plus)
   - Reproducible deep-research benchmark built on a fixed corpus for transparent retriever/agent comparison.
+
+- [guestrin-lab/deepscholar](https://github.com/guestrin-lab/deepscholar)
+  [![GitHub stars](https://img.shields.io/github/stars/guestrin-lab/deepscholar?style=flat)](https://github.com/guestrin-lab/deepscholar)
+  - Open framework to build and benchmark deep-research systems with a public leaderboard.
 
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench)
   [![GitHub stars](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=flat)](https://github.com/SWE-bench/SWE-bench)
