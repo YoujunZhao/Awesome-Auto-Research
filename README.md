@@ -76,6 +76,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory?style=flat)](https://github.com/SamuelSchmidgall/AgentLaboratory)
   - End-to-end autonomous research workflow with agent roles.
 
+- [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research)
+  [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/enterprise-deep-research?style=flat)](https://github.com/SalesforceAIResearch/enterprise-deep-research)
+  - Enterprise-focused multi-agent deep research system with an accompanying technical report and benchmark dataset.
+
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
   [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=flat)](https://github.com/SWE-agent/SWE-agent)
   - Autonomous software issue-solving agent frequently used for research engineering loops.
@@ -117,6 +121,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
   [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=flat)](https://github.com/SkyworkAI/DeepResearchAgent)
   - Hierarchical multi-agent architecture for deep research.
+
+- [GAIR-NLP/DeepResearcher](https://github.com/GAIR-NLP/DeepResearcher)
+  [![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/DeepResearcher?style=flat)](https://github.com/GAIR-NLP/DeepResearcher)
+  - RL-trained deep research agent/model project emphasizing end-to-end web interaction in real-world environments.
 
 - [Tencent/CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro)
   [![GitHub stars](https://img.shields.io/github/stars/Tencent/CognitiveKernel-Pro?style=flat)](https://github.com/Tencent/CognitiveKernel-Pro)
@@ -302,6 +310,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=flat)](https://github.com/langchain-ai/open_deep_research)
   - Configurable open deep-research framework for long-form investigation.
 
+- [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)
+  [![GitHub stars](https://img.shields.io/github/stars/jina-ai/node-DeepResearch?style=flat)](https://github.com/jina-ai/node-DeepResearch)
+  - Highly visible reference implementation of iterative search-read-reason deep research focused on concise answers rather than report generation.
+
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)
   [![GitHub stars](https://img.shields.io/github/stars/nickscamara/open-deep-research?style=flat)](https://github.com/nickscamara/open-deep-research)
   - Popular open-source deep-research agent implementation focused on practical web-scale evidence gathering.
@@ -309,6 +321,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
   [![GitHub stars](https://img.shields.io/github/stars/zilliztech/deep-searcher?style=flat)](https://github.com/zilliztech/deep-searcher)
   - Open-source deep-research framework for iterative retrieval + reasoning on private or public corpora.
+
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+  [![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat)](https://github.com/LearningCircuit/local-deep-research)
+  - Popular self-hostable deep research stack spanning web, arXiv, PubMed, and private-document search with citation-aware reports.
 
 - [AkariAsai/OpenScholar](https://github.com/AkariAsai/OpenScholar)
   [![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat)](https://github.com/AkariAsai/OpenScholar)
