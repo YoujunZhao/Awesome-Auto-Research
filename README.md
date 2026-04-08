@@ -310,6 +310,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=flat)](https://github.com/langchain-ai/open_deep_research)
   - Configurable open deep-research framework for long-form investigation.
 
+- [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)
+  [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/local-deep-researcher?style=flat)](https://github.com/langchain-ai/local-deep-researcher)
+  - Fully local web-research and report-writing assistant for privacy-sensitive deep research workflows.
+
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)
   [![GitHub stars](https://img.shields.io/github/stars/jina-ai/node-DeepResearch?style=flat)](https://github.com/jina-ai/node-DeepResearch)
   - Highly visible reference implementation of iterative search-read-reason deep research focused on concise answers rather than report generation.
