@@ -110,6 +110,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/ResearAI/DeepScientist?style=flat)](https://github.com/ResearAI/DeepScientist)
   - DeepScientist framework for autonomous scientific workflows.
 
+- [ChicagoHAI/NeuriCo](https://github.com/ChicagoHAI/NeuriCo)
+  [![GitHub stars](https://img.shields.io/github/stars/ChicagoHAI/NeuriCo?style=flat)](https://github.com/ChicagoHAI/NeuriCo)
+  - Autonomous research framework that turns structured hypotheses into experiments, results, and paper-ready artifacts.
+
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
   [![GitHub stars](https://img.shields.io/github/stars/HKUDS/AI-Researcher?style=flat)](https://github.com/HKUDS/AI-Researcher)
   - Autonomous scientific innovation system (NeurIPS 2025).
@@ -321,6 +325,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)
   [![GitHub stars](https://img.shields.io/github/stars/nickscamara/open-deep-research?style=flat)](https://github.com/nickscamara/open-deep-research)
   - Popular open-source deep-research agent implementation focused on practical web-scale evidence gathering.
+
+- [u14app/deep-research](https://github.com/u14app/deep-research)
+  [![GitHub stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat)](https://github.com/u14app/deep-research)
+  - Fast privacy-oriented deep-research app with multi-LLM support, local knowledge base ingestion, and MCP/SSE service modes.
 
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
   [![GitHub stars](https://img.shields.io/github/stars/zilliztech/deep-searcher?style=flat)](https://github.com/zilliztech/deep-searcher)
