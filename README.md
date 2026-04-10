@@ -194,6 +194,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/MagiClaw?style=flat)](https://github.com/sjtu-sai-agents/MagiClaw)
   - Conversational command center for orchestrating scientific multi-agent teams.
 
+- [Claw-AI-Lab/Claw-AI-Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab)
+  [![GitHub stars](https://img.shields.io/github/stars/Claw-AI-Lab/Claw-AI-Lab?style=flat)](https://github.com/Claw-AI-Lab/Claw-AI-Lab)
+  - Lab-native multi-agent research platform with interactive UI, project-level orchestration, and human-in-the-loop experiment steering.
+
 - [OpenLAIR/dr-claw](https://github.com/OpenLAIR/dr-claw)
   [![GitHub stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=flat)](https://github.com/OpenLAIR/dr-claw)
   - Research IDE/workbench for orchestrating AI research agents.
