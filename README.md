@@ -80,6 +80,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/enterprise-deep-research?style=flat)](https://github.com/SalesforceAIResearch/enterprise-deep-research)
   - Enterprise-focused multi-agent deep research system with an accompanying technical report and benchmark dataset.
 
+- [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS)
+  [![GitHub stars](https://img.shields.io/github/stars/Pokee-AI/PokeeResearchOSS?style=flat)](https://github.com/Pokee-AI/PokeeResearchOSS)
+  - Open-source 7B deep-research agent with iterative web search + reading, plus published benchmark results across complex QA tasks.
+
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
   [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=flat)](https://github.com/SWE-agent/SWE-agent)
   - Autonomous software issue-solving agent frequently used for research engineering loops.
@@ -125,6 +129,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
   [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=flat)](https://github.com/SkyworkAI/DeepResearchAgent)
   - Hierarchical multi-agent architecture for deep research.
+
+- [RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker)
+  [![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=flat)](https://github.com/RUC-NLPIR/WebThinker)
+  - NeurIPS 2025 deep-research framework/model line for equipping large reasoning models with iterative web research capability.
 
 - [GAIR-NLP/DeepResearcher](https://github.com/GAIR-NLP/DeepResearcher)
   [![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/DeepResearcher?style=flat)](https://github.com/GAIR-NLP/DeepResearcher)
