@@ -202,6 +202,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/MagiClaw?style=flat)](https://github.com/sjtu-sai-agents/MagiClaw)
   - Conversational command center for orchestrating scientific multi-agent teams.
 
+- [AlphaLab-USTC/ResearchClaw](https://github.com/AlphaLab-USTC/ResearchClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/AlphaLab-USTC/ResearchClaw?style=flat)](https://github.com/AlphaLab-USTC/ResearchClaw)
+  - OpenClaw-powered AI research companion covering paper scouting, reading notes, taste profiling, ideation, and writing support.
+
 - [Claw-AI-Lab/Claw-AI-Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab)
   [![GitHub stars](https://img.shields.io/github/stars/Claw-AI-Lab/Claw-AI-Lab?style=flat)](https://github.com/Claw-AI-Lab/Claw-AI-Lab)
   - Lab-native multi-agent research platform with interactive UI, project-level orchestration, and human-in-the-loop experiment steering.
@@ -349,6 +353,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)
   [![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat)](https://github.com/LearningCircuit/local-deep-research)
   - Popular self-hostable deep research stack spanning web, arXiv, PubMed, and private-document search with citation-aware reports.
+
+- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher)
+  [![GitHub stars](https://img.shields.io/github/stars/mshumer/OpenDeepResearcher?style=flat)](https://github.com/mshumer/OpenDeepResearcher)
+  - Early influential open implementation of the OpenAI-style deep research workflow built around iterative search, reading, and report synthesis.
 
 - [AkariAsai/OpenScholar](https://github.com/AkariAsai/OpenScholar)
   [![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat)](https://github.com/AkariAsai/OpenScholar)
