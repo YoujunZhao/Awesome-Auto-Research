@@ -198,6 +198,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/EvoScientist/EvoScientist?style=flat)](https://github.com/EvoScientist/EvoScientist)
   - Self-evolving AI scientist workspace.
 
+- [sjtu-sai-agents/EvoMaster](https://github.com/sjtu-sai-agents/EvoMaster)
+  [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/EvoMaster?style=flat)](https://github.com/sjtu-sai-agents/EvoMaster)
+  - Universal infrastructure for building evolving autonomous scientific research agents.
+
 - [sjtu-sai-agents/MagiClaw](https://github.com/sjtu-sai-agents/MagiClaw)
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/MagiClaw?style=flat)](https://github.com/sjtu-sai-agents/MagiClaw)
   - Conversational command center for orchestrating scientific multi-agent teams.
@@ -267,6 +271,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [Future-House/aviary](https://github.com/Future-House/aviary)
   [![GitHub stars](https://img.shields.io/github/stars/Future-House/aviary?style=flat)](https://github.com/Future-House/aviary)
   - Language-agent gym with challenging scientific tasks for evaluating research-capable agents.
+
+- [facebookresearch/aira-dojo](https://github.com/facebookresearch/aira-dojo)
+  [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/aira-dojo?style=flat)](https://github.com/facebookresearch/aira-dojo)
+  - Framework for developing and evaluating AI research agents.
 
 - [facebookresearch/MLGym](https://github.com/facebookresearch/MLGym)
   [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/MLGym?style=flat)](https://github.com/facebookresearch/MLGym)
@@ -361,6 +369,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [AkariAsai/OpenScholar](https://github.com/AkariAsai/OpenScholar)
   [![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat)](https://github.com/AkariAsai/OpenScholar)
   - Scientific synthesis system over large paper corpora.
+
+- [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher)
+  [![GitHub stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-researcher?style=flat)](https://github.com/Intelligent-Internet/ii-researcher)
+  - Open-source framework for building search and research agents.
 
 - [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
   [![GitHub stars](https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=flat)](https://github.com/nishiwen1214/ChatReviewer)
