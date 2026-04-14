@@ -126,6 +126,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/HKUDS/Auto-Deep-Research?style=flat)](https://github.com/HKUDS/Auto-Deep-Research)
   - Fully automated personal deep-research assistant framework.
 
+- [sjtu-sai-agents/ML-Master](https://github.com/sjtu-sai-agents/ML-Master)
+  [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/ML-Master?style=flat)](https://github.com/sjtu-sai-agents/ML-Master)
+  - Ultra-long-horizon agentic-science framework for machine learning engineering, notable for its cognitive accumulation architecture and strong MLE-bench results.
+
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
   [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=flat)](https://github.com/SkyworkAI/DeepResearchAgent)
   - Hierarchical multi-agent architecture for deep research.
@@ -247,6 +251,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [THUDM/DataSciBench](https://github.com/THUDM/DataSciBench)
   [![GitHub stars](https://img.shields.io/github/stars/THUDM/DataSciBench?style=flat)](https://github.com/THUDM/DataSciBench)
   - Data-science-focused LLM agent benchmark with realistic analytical workflows.
+
+- [openai/mle-bench](https://github.com/openai/mle-bench)
+  [![GitHub stars](https://img.shields.io/github/stars/openai/mle-bench?style=flat)](https://github.com/openai/mle-bench)
+  - Benchmark for measuring how well AI agents perform at machine learning engineering tasks over realistic end-to-end workflows.
 
 - [claw-bench/claw-bench](https://github.com/claw-bench/claw-bench)
   [![GitHub stars](https://img.shields.io/github/stars/claw-bench/claw-bench?style=flat)](https://github.com/claw-bench/claw-bench)
