@@ -104,11 +104,19 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/virattt/dexter?style=flat)](https://github.com/virattt/dexter)
   - Autonomous deep-research agent specialized for long-horizon financial diligence and report generation.
 
+- [OpenRaiser/NanoResearch](https://github.com/OpenRaiser/NanoResearch)
+  [![GitHub stars](https://img.shields.io/github/stars/OpenRaiser/NanoResearch?style=flat)](https://github.com/OpenRaiser/NanoResearch)
+  - End-to-end autonomous AI research engine that runs real experiments and turns results into paper-ready artifacts.
+
 ## AI Scientist Family & Deep Scientist
 
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
   [![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=flat)](https://github.com/SakanaAI/AI-Scientist-v2)
   - Agentic tree-search evolution of AI-Scientist.
+
+- [InternScience/InternAgent](https://github.com/InternScience/InternAgent)
+  [![GitHub stars](https://img.shields.io/github/stars/InternScience/InternAgent?style=flat)](https://github.com/InternScience/InternAgent)
+  - Unified long-horizon autonomous scientific-discovery framework spanning deep research, verification, and evolutionary refinement.
 
 - [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist)
   [![GitHub stars](https://img.shields.io/github/stars/ResearAI/DeepScientist?style=flat)](https://github.com/ResearAI/DeepScientist)
@@ -165,6 +173,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [polyuiislab/infiAgent](https://github.com/polyuiislab/infiAgent)
   [![GitHub stars](https://img.shields.io/github/stars/polyuiislab/infiAgent?style=flat)](https://github.com/polyuiislab/infiAgent)
   - Infinite-horizon agent framework for building configurable AI Scientist/Cowork-style research systems.
+
+- [Sibyl-Research-Team/AutoResearch-SibylSystem](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem)
+  [![GitHub stars](https://img.shields.io/github/stars/Sibyl-Research-Team/AutoResearch-SibylSystem?style=flat)](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem)
+  - Claude-Code-native autonomous AI scientist with self-evolving multi-agent research and GPU experiment loops.
 
 ## AutoResearch Loop Variants
 
@@ -233,6 +245,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw)
   [![GitHub stars](https://img.shields.io/github/stars/ymx10086/ResearchClaw?style=flat)](https://github.com/ymx10086/ResearchClaw)
   - Personal research assistant workspace emphasizing literature review, experiment tracking, and end-to-end paper workflow automation.
+
+- [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/beita6969/ScienceClaw?style=flat)](https://github.com/beita6969/ScienceClaw)
+  - OpenClaw-based research workspace tailored to scientists, emphasizing self-evolving skills, persistent memory, and long-duration research sessions.
 
 ## Auto Research Benchmarks
 
