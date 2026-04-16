@@ -214,6 +214,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/EvoScientist/EvoScientist?style=flat)](https://github.com/EvoScientist/EvoScientist)
   - Self-evolving AI scientist workspace.
 
+- [wu-yc/LabClaw](https://github.com/wu-yc/LabClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/wu-yc/LabClaw?style=flat)](https://github.com/wu-yc/LabClaw)
+  - OpenClaw-compatible operating layer and large skill library for dry-lab reasoning, protocol composition, and lab-oriented agent workflows.
+
 - [sjtu-sai-agents/EvoMaster](https://github.com/sjtu-sai-agents/EvoMaster)
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/EvoMaster?style=flat)](https://github.com/sjtu-sai-agents/EvoMaster)
   - Universal infrastructure for building evolving autonomous scientific research agents.
@@ -307,6 +311,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench)
   [![GitHub stars](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench?style=flat)](https://github.com/Ayanami0730/deep_research_bench)
   - Comprehensive benchmark suite focused on deep research agent performance.
+
+- [facebookresearch/airs-bench](https://github.com/facebookresearch/airs-bench)
+  [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/airs-bench?style=flat)](https://github.com/facebookresearch/airs-bench)
+  - AI Research Science benchmark for end-to-end autonomous ML research tasks grounded in published papers, datasets, and SOTA targets.
 
 - [OPPO-PersonalAI/FINDER_DEFT](https://github.com/OPPO-PersonalAI/FINDER_DEFT)
   [![GitHub stars](https://img.shields.io/github/stars/OPPO-PersonalAI/FINDER_DEFT?style=flat)](https://github.com/OPPO-PersonalAI/FINDER_DEFT)
