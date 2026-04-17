@@ -238,6 +238,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=flat)](https://github.com/OpenLAIR/dr-claw)
   - Research IDE/workbench for orchestrating AI research agents.
 
+- [xjtulyc/MedgeClaw](https://github.com/xjtulyc/MedgeClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat)](https://github.com/xjtulyc/MedgeClaw)
+  - Open-source biomedical research assistant built on OpenClaw/Claude Code with scientific skills, dashboarding, and RStudio/JupyterLab integration.
+
 - [wentorai/Research-Claw](https://github.com/wentorai/Research-Claw)
   [![GitHub stars](https://img.shields.io/github/stars/wentorai/Research-Claw?style=flat)](https://github.com/wentorai/Research-Claw)
   - PI-style AI research workspace and management interface.
@@ -335,6 +339,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [QuantaAlpha/VideoDR-Benchmark](https://github.com/QuantaAlpha/VideoDR-Benchmark)
   [![GitHub stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark?style=flat)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
   - Benchmark suite targeting multimodal/video deep research scenarios.
+
+- [Osilly/Vision-DeepResearch](https://github.com/Osilly/Vision-DeepResearch)
+  [![GitHub stars](https://img.shields.io/github/stars/Osilly/Vision-DeepResearch?style=flat)](https://github.com/Osilly/Vision-DeepResearch)
+  - Multimodal deep-research model line plus VDR-Bench, extending long-horizon visual/textual search and reasoning workflows.
 
 - [CoinStatsHQ/ai-crypto-deep-research-benchmark](https://github.com/CoinStatsHQ/ai-crypto-deep-research-benchmark)
   [![GitHub stars](https://img.shields.io/github/stars/CoinStatsHQ/ai-crypto-deep-research-benchmark?style=flat)](https://github.com/CoinStatsHQ/ai-crypto-deep-research-benchmark)
