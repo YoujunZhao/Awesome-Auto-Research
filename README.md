@@ -378,6 +378,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=flat)](https://github.com/langchain-ai/open_deep_research)
   - Configurable open deep-research framework for long-form investigation.
 
+- [langchain-ai/deep_research_from_scratch](https://github.com/langchain-ai/deep_research_from_scratch)
+  [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/deep_research_from_scratch?style=flat)](https://github.com/langchain-ai/deep_research_from_scratch)
+  - Notebook-style build-from-scratch deep-research implementation that is useful as a transparent reference architecture for custom agent stacks.
+
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)
   [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/local-deep-researcher?style=flat)](https://github.com/langchain-ai/local-deep-researcher)
   - Fully local web-research and report-writing assistant for privacy-sensitive deep research workflows.
@@ -417,6 +421,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
   [![GitHub stars](https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=flat)](https://github.com/nishiwen1214/ChatReviewer)
   - Automated reviewer assistant for paper critique and revision.
+
+- [dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)
+  [![GitHub stars](https://img.shields.io/github/stars/dwzhu-pku/PaperBanana?style=flat)](https://github.com/dwzhu-pku/PaperBanana)
+  - Multi-agent academic illustration system that helps AI-scientist workflows turn paper content into publication-quality diagrams and plots.
 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider)
   [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat)](https://github.com/Aider-AI/aider)
