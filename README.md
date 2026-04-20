@@ -178,6 +178,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/Sibyl-Research-Team/AutoResearch-SibylSystem?style=flat)](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem)
   - Claude-Code-native autonomous AI scientist with self-evolving multi-agent research and GPU experiment loops.
 
+- [bio-xyz/BioAgents](https://github.com/bio-xyz/BioAgents)
+  [![GitHub stars](https://img.shields.io/github/stars/bio-xyz/BioAgents?style=flat)](https://github.com/bio-xyz/BioAgents)
+  - Biology-focused AI scientist framework combining literature, analysis, and data-science agents for autonomous scientific discovery workflows.
+
 ## AutoResearch Loop Variants
 
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
@@ -204,6 +208,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   - ARIS markdown-skill autoresearch workflow for autonomous ML idea exploration, cross-model review, and experiment iteration.
 
+- [TenureAI/PhD-Zero](https://github.com/TenureAI/PhD-Zero)
+  [![GitHub stars](https://img.shields.io/github/stars/TenureAI/PhD-Zero?style=flat)](https://github.com/TenureAI/PhD-Zero)
+  - Research-oriented operating system of reusable skills and workflows for autonomous coding and experiment agents.
+
 - [mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy)
   [![GitHub stars](https://img.shields.io/github/stars/mattprusak/autoresearch-genealogy?style=flat)](https://github.com/mattprusak/autoresearch-genealogy)
   - Domain adaptation of autoresearch templates for genealogy research.
@@ -224,7 +232,11 @@ A curated list of open-source projects for autonomous and agentic research.
 
 - [sjtu-sai-agents/MagiClaw](https://github.com/sjtu-sai-agents/MagiClaw)
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/MagiClaw?style=flat)](https://github.com/sjtu-sai-agents/MagiClaw)
-  - Conversational command center for orchestrating scientific multi-agent teams.
+  - Conversational command center for orchestrating scientific multi-agent teams via Feishu/Lark.
+
+- [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer)
+  [![GitHub stars](https://img.shields.io/github/stars/Prismer-AI/Prismer?style=flat)](https://github.com/Prismer-AI/Prismer)
+  - Open-source Research Claw workspace for modular agent workflows, docs, and team-facing research operations.
 
 - [AlphaLab-USTC/ResearchClaw](https://github.com/AlphaLab-USTC/ResearchClaw)
   [![GitHub stars](https://img.shields.io/github/stars/AlphaLab-USTC/ResearchClaw?style=flat)](https://github.com/AlphaLab-USTC/ResearchClaw)
