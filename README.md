@@ -430,6 +430,14 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-researcher?style=flat)](https://github.com/Intelligent-Internet/ii-researcher)
   - Open-source framework for building search and research agents.
 
+- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)
+  [![GitHub stars](https://img.shields.io/github/stars/Orchestra-Research/AI-Research-SKILLs?style=flat)](https://github.com/Orchestra-Research/AI-Research-SKILLs)
+  - Large Agent Skills library focused on AI research workflows, spanning ideation, training, evaluation, paper writing, and autoresearch support.
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+  [![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat)](https://github.com/K-Dense-AI/scientific-agent-skills)
+  - Broad scientific-skill pack for research agents, covering literature review, domain databases, analysis pipelines, and scientific writing workflows.
+
 - [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
   [![GitHub stars](https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=flat)](https://github.com/nishiwen1214/ChatReviewer)
   - Automated reviewer assistant for paper critique and revision.
