@@ -250,6 +250,14 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=flat)](https://github.com/OpenLAIR/dr-claw)
   - Research IDE/workbench for orchestrating AI research agents.
 
+- [InternScience/DrClaw](https://github.com/InternScience/DrClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/InternScience/DrClaw?style=flat)](https://github.com/InternScience/DrClaw)
+  - OpenClaw-native 24/7 research-team workspace with a large built-in scientific skill set and lab-style multi-agent coordination.
+
+- [Runchuan-BU/BioClaw](https://github.com/Runchuan-BU/BioClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/Runchuan-BU/BioClaw?style=flat)](https://github.com/Runchuan-BU/BioClaw)
+  - Bioinformatics-focused OpenClaw research assistant with paper-backed workflows, domain tooling, and bilingual docs.
+
 - [xjtulyc/MedgeClaw](https://github.com/xjtulyc/MedgeClaw)
   [![GitHub stars](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat)](https://github.com/xjtulyc/MedgeClaw)
   - Open-source biomedical research assistant built on OpenClaw/Claude Code with scientific skills, dashboarding, and RStudio/JupyterLab integration.
@@ -445,6 +453,18 @@ A curated list of open-source projects for autonomous and agentic research.
 - [dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)
   [![GitHub stars](https://img.shields.io/github/stars/dwzhu-pku/PaperBanana?style=flat)](https://github.com/dwzhu-pku/PaperBanana)
   - Multi-agent academic illustration system that helps AI-scientist workflows turn paper content into publication-quality diagrams and plots.
+
+- [ZhihaoAIRobotic/ClawPhD](https://github.com/ZhihaoAIRobotic/ClawPhD)
+  [![GitHub stars](https://img.shields.io/github/stars/ZhihaoAIRobotic/ClawPhD?style=flat)](https://github.com/ZhihaoAIRobotic/ClawPhD)
+  - OpenClaw agent for turning papers into publication-ready diagrams, websites, reviews, and other research artifacts.
+
+- [VisionXLab/CitationClaw](https://github.com/VisionXLab/CitationClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/VisionXLab/CitationClaw?style=flat)](https://github.com/VisionXLab/CitationClaw)
+  - Citation-analysis engine that builds explainable impact reports and scholar-centric citation portraits from paper inputs.
+
+- [CurryTang/Amadeus](https://github.com/CurryTang/Amadeus)
+  [![GitHub stars](https://img.shields.io/github/stars/CurryTang/Amadeus?style=flat)](https://github.com/CurryTang/Amadeus)
+  - Personal AI research assistant for paper ingestion, deep reading, tracking, and autonomous research workflows over remote workspaces.
 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider)
   [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat)](https://github.com/Aider-AI/aider)
