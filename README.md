@@ -142,6 +142,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=flat)](https://github.com/SkyworkAI/DeepResearchAgent)
   - Hierarchical multi-agent architecture for deep research.
 
+- [stepfun-ai/StepDeepResearch](https://github.com/stepfun-ai/StepDeepResearch)
+  [![GitHub stars](https://img.shields.io/github/stars/stepfun-ai/StepDeepResearch?style=flat)](https://github.com/stepfun-ai/StepDeepResearch)
+  - Open deep-research agent release from StepFun, paired with a technical report and benchmark results on ResearchRubrics-style evaluation.
+
 - [RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker)
   [![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=flat)](https://github.com/RUC-NLPIR/WebThinker)
   - NeurIPS 2025 deep-research framework/model line for equipping large reasoning models with iterative web research capability.
@@ -181,6 +185,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [bio-xyz/BioAgents](https://github.com/bio-xyz/BioAgents)
   [![GitHub stars](https://img.shields.io/github/stars/bio-xyz/BioAgents?style=flat)](https://github.com/bio-xyz/BioAgents)
   - Biology-focused AI scientist framework combining literature, analysis, and data-science agents for autonomous scientific discovery workflows.
+
+- [jimmc414/Kosmos](https://github.com/jimmc414/Kosmos)
+  [![GitHub stars](https://img.shields.io/github/stars/jimmc414/Kosmos?style=flat)](https://github.com/jimmc414/Kosmos)
+  - Community implementation of the Kosmos AI-scientist architecture for autonomous hypothesis generation, experiment execution, and discovery validation.
 
 ## AutoResearch Loop Variants
 
@@ -347,6 +355,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [ByteDance-BandAI/ReportBench](https://github.com/ByteDance-BandAI/ReportBench)
   [![GitHub stars](https://img.shields.io/github/stars/ByteDance-BandAI/ReportBench?style=flat)](https://github.com/ByteDance-BandAI/ReportBench)
   - Benchmark for evaluating deep-research agents on academic survey/report-generation tasks.
+
+- [AIDC-AI/Marco-DeepResearch](https://github.com/AIDC-AI/Marco-DeepResearch)
+  [![GitHub stars](https://img.shields.io/github/stars/AIDC-AI/Marco-DeepResearch?style=flat)](https://github.com/AIDC-AI/Marco-DeepResearch)
+  - Marco Search Agent release bundling realistic agentic-search benchmarks and practical deep-research workflows for efficiency-focused evaluation.
 
 - [SalesforceAIResearch/LiveResearchBench](https://github.com/SalesforceAIResearch/LiveResearchBench)
   [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/LiveResearchBench?style=flat)](https://github.com/SalesforceAIResearch/LiveResearchBench)
