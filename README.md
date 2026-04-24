@@ -278,6 +278,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/nanoAgentTeam/research-claw?style=flat)](https://github.com/nanoAgentTeam/research-claw)
   - Self-hosted assistant for literature management and research planning.
 
+- [gaotiexinqu/OneResearchClaw](https://github.com/gaotiexinqu/OneResearchClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/gaotiexinqu/OneResearchClaw?style=flat)](https://github.com/gaotiexinqu/OneResearchClaw)
+  - Newly launched multi-format research pipeline that turns meetings, documents, link inputs, and mixed archives into grounded reports with review loops and export options.
+
 - [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw)
   [![GitHub stars](https://img.shields.io/github/stars/ymx10086/ResearchClaw?style=flat)](https://github.com/ymx10086/ResearchClaw)
   - Personal research assistant workspace emphasizing literature review, experiment tracking, and end-to-end paper workflow automation.
