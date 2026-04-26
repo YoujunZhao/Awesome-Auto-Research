@@ -138,6 +138,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/ML-Master?style=flat)](https://github.com/sjtu-sai-agents/ML-Master)
   - Ultra-long-horizon agentic-science framework for machine learning engineering, notable for its cognitive accumulation architecture and strong MLE-bench results.
 
+- [openags/auto-research](https://github.com/openags/auto-research)
+  [![GitHub stars](https://img.shields.io/github/stars/openags/auto-research?style=flat)](https://github.com/openags/auto-research)
+  - Open Autonomous Generalist Scientist framework spanning literature review, experiments, manuscript writing, and peer-review loops in a unified multi-agent workspace.
+
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
   [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=flat)](https://github.com/SkyworkAI/DeepResearchAgent)
   - Hierarchical multi-agent architecture for deep research.
@@ -215,6 +219,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   [![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   - ARIS markdown-skill autoresearch workflow for autonomous ML idea exploration, cross-model review, and experiment iteration.
+
+- [LigphiDonk/Oh-my--paper](https://github.com/LigphiDonk/Oh-my--paper)
+  [![GitHub stars](https://img.shields.io/github/stars/LigphiDonk/Oh-my--paper?style=flat)](https://github.com/LigphiDonk/Oh-my--paper)
+  - Claude Code plugin that turns terminal sessions into an autonomous research pipeline with specialized agent roles for survey, experiments, and paper writing.
 
 - [TenureAI/PhD-Zero](https://github.com/TenureAI/PhD-Zero)
   [![GitHub stars](https://img.shields.io/github/stars/TenureAI/PhD-Zero?style=flat)](https://github.com/TenureAI/PhD-Zero)
