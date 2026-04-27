@@ -142,6 +142,14 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/openags/auto-research?style=flat)](https://github.com/openags/auto-research)
   - Open Autonomous Generalist Scientist framework spanning literature review, experiments, manuscript writing, and peer-review loops in a unified multi-agent workspace.
 
+- [Just-Curieous/Curie](https://github.com/Just-Curieous/Curie)
+  [![GitHub stars](https://img.shields.io/github/stars/Just-Curieous/Curie?style=flat)](https://github.com/Just-Curieous/Curie)
+  - End-to-end AI-agent framework for rigorous scientific experimentation, from hypothesis formulation through result interpretation.
+
+- [tsinghua-fib-lab/OmniScientist](https://github.com/tsinghua-fib-lab/OmniScientist)
+  [![GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/OmniScientist?style=flat)](https://github.com/tsinghua-fib-lab/OmniScientist)
+  - Holistic AI-scientist blueprint spanning idea generation, experiment design, execution loops, and paper-oriented outputs.
+
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
   [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=flat)](https://github.com/SkyworkAI/DeepResearchAgent)
   - Hierarchical multi-agent architecture for deep research.
@@ -266,6 +274,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=flat)](https://github.com/OpenLAIR/dr-claw)
   - Research IDE/workbench for orchestrating AI research agents.
 
+- [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents)
+  [![GitHub stars](https://img.shields.io/github/stars/shenhao-stu/openclaw-agents?style=flat)](https://github.com/shenhao-stu/openclaw-agents)
+  - One-command multi-agent OpenClaw setup for research teams, with specialized roles and shared routing/config patterns.
+
 - [InternScience/DrClaw](https://github.com/InternScience/DrClaw)
   [![GitHub stars](https://img.shields.io/github/stars/InternScience/DrClaw?style=flat)](https://github.com/InternScience/DrClaw)
   - OpenClaw-native 24/7 research-team workspace with a large built-in scientific skill set and lab-style multi-agent coordination.
@@ -282,6 +294,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/wentorai/Research-Claw?style=flat)](https://github.com/wentorai/Research-Claw)
   - PI-style AI research workspace and management interface.
 
+- [guhaohao0991/PaperClaw](https://github.com/guhaohao0991/PaperClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/guhaohao0991/PaperClaw?style=flat)](https://github.com/guhaohao0991/PaperClaw)
+  - OpenClaw skill for spinning up topic-specific paper search, review, and critique expert agents.
+
 - [nanoAgentTeam/research-claw](https://github.com/nanoAgentTeam/research-claw)
   [![GitHub stars](https://img.shields.io/github/stars/nanoAgentTeam/research-claw?style=flat)](https://github.com/nanoAgentTeam/research-claw)
   - Self-hosted assistant for literature management and research planning.
@@ -293,6 +309,14 @@ A curated list of open-source projects for autonomous and agentic research.
 - [ymx10086/ResearchClaw](https://github.com/ymx10086/ResearchClaw)
   [![GitHub stars](https://img.shields.io/github/stars/ymx10086/ResearchClaw?style=flat)](https://github.com/ymx10086/ResearchClaw)
   - Personal research assistant workspace emphasizing literature review, experiment tracking, and end-to-end paper workflow automation.
+
+- [tsingyuai/scientify](https://github.com/tsingyuai/scientify)
+  [![GitHub stars](https://img.shields.io/github/stars/tsingyuai/scientify?style=flat)](https://github.com/tsingyuai/scientify)
+  - OpenClaw-based research workflow system aimed at continuous paper tracking, hypothesis evolution, and validation loops.
+
+- [drpedapati/sciclaw](https://github.com/drpedapati/sciclaw)
+  [![GitHub stars](https://img.shields.io/github/stars/drpedapati/sciclaw?style=flat)](https://github.com/drpedapati/sciclaw)
+  - PicoClaw-compatible paired-scientist assistant with reproducible experiment logging, manuscript hooks, and scientific skills.
 
 - [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw)
   [![GitHub stars](https://img.shields.io/github/stars/beita6969/ScienceClaw?style=flat)](https://github.com/beita6969/ScienceClaw)
