@@ -108,6 +108,14 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/OpenRaiser/NanoResearch?style=flat)](https://github.com/OpenRaiser/NanoResearch)
   - End-to-end autonomous AI research engine that runs real experiments and turns results into paper-ready artifacts.
 
+- [AutoX-AI-Labs/AutoR](https://github.com/AutoX-AI-Labs/AutoR)
+  [![GitHub stars](https://img.shields.io/github/stars/AutoX-AI-Labs/AutoR?style=flat)](https://github.com/AutoX-AI-Labs/AutoR)
+  - Human-in-the-loop research harness that turns long-running agent workflows into resumable, artifact-backed, auditable research runs.
+
+- [ruc-datalab/DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)
+  [![GitHub stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=flat)](https://github.com/ruc-datalab/DeepAnalyze)
+  - Agentic data-science system for autonomous analysis over structured and unstructured data, with deep-research style report generation.
+
 ## AI Scientist Family & Deep Scientist
 
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
@@ -201,6 +209,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [jimmc414/Kosmos](https://github.com/jimmc414/Kosmos)
   [![GitHub stars](https://img.shields.io/github/stars/jimmc414/Kosmos?style=flat)](https://github.com/jimmc414/Kosmos)
   - Community implementation of the Kosmos AI-scientist architecture for autonomous hypothesis generation, experiment execution, and discovery validation.
+
+- [AI4Scientist/nano-scientist](https://github.com/AI4Scientist/nano-scientist)
+  [![GitHub stars](https://img.shields.io/github/stars/AI4Scientist/nano-scientist?style=flat)](https://github.com/AI4Scientist/nano-scientist)
+  - Budget-aware autonomous research agent that turns a topic into a peer-reviewed technical report with artifacts, LaTeX, and PDF outputs.
 
 ## AutoResearch Loop Variants
 
@@ -403,6 +415,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [InternScience/ResearchClawBench](https://github.com/InternScience/ResearchClawBench)
   [![GitHub stars](https://img.shields.io/github/stars/InternScience/ResearchClawBench?style=flat)](https://github.com/InternScience/ResearchClawBench)
   - Benchmark suite for automated research agents spanning re-discovery and new-discovery evaluation settings.
+
+- [InternScience/SGI-Bench](https://github.com/InternScience/SGI-Bench)
+  [![GitHub stars](https://img.shields.io/github/stars/InternScience/SGI-Bench?style=flat)](https://github.com/InternScience/SGI-Bench)
+  - Scientist-aligned benchmark for evaluating scientific general intelligence across deep research, ideation, experiment execution, and multimodal reasoning.
 
 - [QuantaAlpha/VideoDR-Benchmark](https://github.com/QuantaAlpha/VideoDR-Benchmark)
   [![GitHub stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark?style=flat)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
