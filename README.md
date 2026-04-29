@@ -100,6 +100,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/mshumer/autonomous-researcher?style=flat)](https://github.com/mshumer/autonomous-researcher)
   - Multi-agent autonomous research system that decomposes objectives into experiments and paper-style outputs.
 
+- [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
+  [![GitHub stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=flat)](https://github.com/huggingface/ml-intern)
+  - Open-source ML engineer that reads papers, trains models, and ships artifacts, making it a strong bridge between research-agent ideation and execution-heavy ML workflows.
+
 - [virattt/dexter](https://github.com/virattt/dexter)
   [![GitHub stars](https://img.shields.io/github/stars/virattt/dexter?style=flat)](https://github.com/virattt/dexter)
   - Autonomous deep-research agent specialized for long-horizon financial diligence and report generation.
@@ -223,6 +227,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx)
   [![GitHub stars](https://img.shields.io/github/stars/trevin-creator/autoresearch-mlx?style=flat)](https://github.com/trevin-creator/autoresearch-mlx)
   - MLX/Apple Silicon implementation of autoresearch loops.
+
+- [wadeKeith/autoresearch-qwen](https://github.com/wadeKeith/autoresearch-qwen)
+  [![GitHub stars](https://img.shields.io/github/stars/wadeKeith/autoresearch-qwen?style=flat)](https://github.com/wadeKeith/autoresearch-qwen)
+  - Fresh benchmark-focused autoresearch fork for Qwen3-VL training-code exploration, with both multi-GPU and Apple Silicon execution paths.
 
 - [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch)
   [![GitHub stars](https://img.shields.io/github/stars/leo-lilinxiao/codex-autoresearch?style=flat)](https://github.com/leo-lilinxiao/codex-autoresearch)
