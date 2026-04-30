@@ -506,6 +506,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat)](https://github.com/AkariAsai/OpenScholar)
   - Scientific synthesis system over large paper corpora.
 
+- [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp)
+  [![GitHub stars](https://img.shields.io/github/stars/openags/paper-search-mcp?style=flat)](https://github.com/openags/paper-search-mcp)
+  - MCP and CLI layer for multi-source academic paper search and download across arXiv, PubMed, bioRxiv, Semantic Scholar, OpenAlex, and other literature endpoints.
+
 - [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher)
   [![GitHub stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-researcher?style=flat)](https://github.com/Intelligent-Internet/ii-researcher)
   - Open-source framework for building search and research agents.
