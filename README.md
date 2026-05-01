@@ -146,6 +146,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/HKUDS/Auto-Deep-Research?style=flat)](https://github.com/HKUDS/Auto-Deep-Research)
   - Fully automated personal deep-research assistant framework.
 
+- [HKUDS/DeepInnovator](https://github.com/HKUDS/DeepInnovator)
+  [![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepInnovator?style=flat)](https://github.com/HKUDS/DeepInnovator)
+  - Scientific idea-generation model and research copilot for surfacing gaps, hypotheses, and interdisciplinary opportunities before experiment execution.
+
 - [sjtu-sai-agents/ML-Master](https://github.com/sjtu-sai-agents/ML-Master)
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/ML-Master?style=flat)](https://github.com/sjtu-sai-agents/ML-Master)
   - Ultra-long-horizon agentic-science framework for machine learning engineering, notable for its cognitive accumulation architecture and strong MLE-bench results.
@@ -277,6 +281,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [sjtu-sai-agents/MagiClaw](https://github.com/sjtu-sai-agents/MagiClaw)
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/MagiClaw?style=flat)](https://github.com/sjtu-sai-agents/MagiClaw)
   - Conversational command center for orchestrating scientific multi-agent teams via Feishu/Lark.
+
+- [EurekaClaw/EurekaClaw](https://github.com/EurekaClaw/EurekaClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/EurekaClaw/EurekaClaw?style=flat)](https://github.com/EurekaClaw/EurekaClaw)
+  - Autonomous multi-agent research assistant that crawls literature, proposes hypotheses, runs experiments, and drafts paper-ready LaTeX artifacts from chat or terminal.
 
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer)
   [![GitHub stars](https://img.shields.io/github/stars/Prismer-AI/Prismer?style=flat)](https://github.com/Prismer-AI/Prismer)
@@ -517,6 +525,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)
   [![GitHub stars](https://img.shields.io/github/stars/Orchestra-Research/AI-Research-SKILLs?style=flat)](https://github.com/Orchestra-Research/AI-Research-SKILLs)
   - Large Agent Skills library focused on AI research workflows, spanning ideation, training, evaluation, paper writing, and autoresearch support.
+
+- [wentorai/research-plugins](https://github.com/wentorai/research-plugins)
+  [![GitHub stars](https://img.shields.io/github/stars/wentorai/research-plugins?style=flat)](https://github.com/wentorai/research-plugins)
+  - OpenClaw/Research-Claw plugin pack with a large academic skill library plus multi-source literature-search tools covering OpenAlex, Crossref, PubMed, arXiv, and related research APIs.
 
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
   [![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat)](https://github.com/K-Dense-AI/scientific-agent-skills)
