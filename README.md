@@ -116,6 +116,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/AutoX-AI-Labs/AutoR?style=flat)](https://github.com/AutoX-AI-Labs/AutoR)
   - Human-in-the-loop research harness that turns long-running agent workflows into resumable, artifact-backed, auditable research runs.
 
+- [ProjectDXAI/labrat](https://github.com/ProjectDXAI/labrat)
+  [![GitHub stars](https://img.shields.io/github/stars/ProjectDXAI/labrat?style=flat)](https://github.com/ProjectDXAI/labrat)
+  - Local-first autonomous research runtime that runs multi-branch agent populations against scoreboards and allocates compute toward ideas that show real signal.
+
 - [ruc-datalab/DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)
   [![GitHub stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=flat)](https://github.com/ruc-datalab/DeepAnalyze)
   - Agentic data-science system for autonomous analysis over structured and unstructured data, with deep-research style report generation.
@@ -404,6 +408,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/MLGym?style=flat)](https://github.com/facebookresearch/MLGym)
   - Framework + benchmark environment for advancing and stress-testing AI research agents.
 
+- [ulab-uiuc/research-town](https://github.com/ulab-uiuc/research-town)
+  [![GitHub stars](https://img.shields.io/github/stars/ulab-uiuc/research-town?style=flat)](https://github.com/ulab-uiuc/research-town)
+  - Research-community simulator for studying multi-agent scientific discovery dynamics, collaboration patterns, and long-horizon research behavior.
+
 - [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench)
   [![GitHub stars](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench?style=flat)](https://github.com/Ayanami0730/deep_research_bench)
   - Comprehensive benchmark suite focused on deep research agent performance.
@@ -517,6 +525,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp)
   [![GitHub stars](https://img.shields.io/github/stars/openags/paper-search-mcp?style=flat)](https://github.com/openags/paper-search-mcp)
   - MCP and CLI layer for multi-source academic paper search and download across arXiv, PubMed, bioRxiv, Semantic Scholar, OpenAlex, and other literature endpoints.
+
+- [ZimoLiao/scholaraio](https://github.com/ZimoLiao/scholaraio)
+  [![GitHub stars](https://img.shields.io/github/stars/ZimoLiao/scholaraio?style=flat)](https://github.com/ZimoLiao/scholaraio)
+  - Research infrastructure stack for AI agents, bundling literature-search primitives, paper tooling, and reusable academic agent skills in one workspace.
 
 - [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher)
   [![GitHub stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-researcher?style=flat)](https://github.com/Intelligent-Internet/ii-researcher)
