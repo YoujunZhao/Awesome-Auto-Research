@@ -134,6 +134,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/InternScience/InternAgent?style=flat)](https://github.com/InternScience/InternAgent)
   - Unified long-horizon autonomous scientific-discovery framework spanning deep research, verification, and evolutionary refinement.
 
+- [InternScience/SciDataCopilot](https://github.com/InternScience/SciDataCopilot)
+  [![GitHub stars](https://img.shields.io/github/stars/InternScience/SciDataCopilot?style=flat)](https://github.com/InternScience/SciDataCopilot)
+  - Agentic data-preparation framework for AGI-driven scientific discovery, filling an important upstream layer between raw scientific data and autonomous experiment agents.
+
 - [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist)
   [![GitHub stars](https://img.shields.io/github/stars/ResearAI/DeepScientist?style=flat)](https://github.com/ResearAI/DeepScientist)
   - DeepScientist framework for autonomous scientific workflows.
@@ -153,6 +157,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [HKUDS/DeepInnovator](https://github.com/HKUDS/DeepInnovator)
   [![GitHub stars](https://img.shields.io/github/stars/HKUDS/DeepInnovator?style=flat)](https://github.com/HKUDS/DeepInnovator)
   - Scientific idea-generation model and research copilot for surfacing gaps, hypotheses, and interdisciplinary opportunities before experiment execution.
+
+- [amair-lab/PiFlow](https://github.com/amair-lab/PiFlow)
+  [![GitHub stars](https://img.shields.io/github/stars/amair-lab/PiFlow?style=flat)](https://github.com/amair-lab/PiFlow)
+  - Principle-aware multi-agent scientific-discovery framework that coordinates specialized agents around explicit scientific principles rather than pure free-form exploration.
 
 - [sjtu-sai-agents/ML-Master](https://github.com/sjtu-sai-agents/ML-Master)
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/ML-Master?style=flat)](https://github.com/sjtu-sai-agents/ML-Master)
@@ -185,6 +193,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [GAIR-NLP/DeepResearcher](https://github.com/GAIR-NLP/DeepResearcher)
   [![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/DeepResearcher?style=flat)](https://github.com/GAIR-NLP/DeepResearcher)
   - RL-trained deep research agent/model project emphasizing end-to-end web interaction in real-world environments.
+
+- [GAIR-NLP/SR-Scientist](https://github.com/GAIR-NLP/SR-Scientist)
+  [![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/SR-Scientist?style=flat)](https://github.com/GAIR-NLP/SR-Scientist)
+  - Agentic scientific-discovery system focused on equation discovery, extending the AI-scientist family into symbolic and mechanistic science settings.
 
 - [Tencent/CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro)
   [![GitHub stars](https://img.shields.io/github/stars/Tencent/CognitiveKernel-Pro?style=flat)](https://github.com/Tencent/CognitiveKernel-Pro)
@@ -427,6 +439,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [ByteDance-BandAI/ReportBench](https://github.com/ByteDance-BandAI/ReportBench)
   [![GitHub stars](https://img.shields.io/github/stars/ByteDance-BandAI/ReportBench?style=flat)](https://github.com/ByteDance-BandAI/ReportBench)
   - Benchmark for evaluating deep-research agents on academic survey/report-generation tasks.
+
+- [CherYou/AutoResearchBench](https://github.com/CherYou/AutoResearchBench)
+  [![GitHub stars](https://img.shields.io/github/stars/CherYou/AutoResearchBench?style=flat)](https://github.com/CherYou/AutoResearchBench)
+  - Benchmark for complex scientific literature-discovery tasks, directly targeting the retrieval and evidence-selection behaviors that auto-research systems rely on.
 
 - [AIDC-AI/Marco-DeepResearch](https://github.com/AIDC-AI/Marco-DeepResearch)
   [![GitHub stars](https://img.shields.io/github/stars/AIDC-AI/Marco-DeepResearch?style=flat)](https://github.com/AIDC-AI/Marco-DeepResearch)
