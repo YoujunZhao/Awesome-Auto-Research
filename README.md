@@ -112,6 +112,14 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/OpenRaiser/NanoResearch?style=flat)](https://github.com/OpenRaiser/NanoResearch)
   - End-to-end autonomous AI research engine that runs real experiments and turns results into paper-ready artifacts.
 
+- [QJHWC/PaperForge](https://github.com/QJHWC/PaperForge)
+  [![GitHub stars](https://img.shields.io/github/stars/QJHWC/PaperForge?style=flat)](https://github.com/QJHWC/PaperForge)
+  - End-to-end academic research and paper-production workbench that combines literature search, experiment orchestration, LaTeX writing, and template migration in one local workflow.
+
+- [skyllwt/OmegaWiki](https://github.com/skyllwt/OmegaWiki)
+  [![GitHub stars](https://img.shields.io/github/stars/skyllwt/OmegaWiki?style=flat)](https://github.com/skyllwt/OmegaWiki)
+  - Wiki-centric full-lifecycle AI research platform for compounding paper knowledge into submission-oriented research workflows.
+
 - [AutoX-AI-Labs/AutoR](https://github.com/AutoX-AI-Labs/AutoR)
   [![GitHub stars](https://img.shields.io/github/stars/AutoX-AI-Labs/AutoR?style=flat)](https://github.com/AutoX-AI-Labs/AutoR)
   - Human-in-the-loop research harness that turns long-running agent workflows into resumable, artifact-backed, auditable research runs.
@@ -561,6 +569,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
   [![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat)](https://github.com/K-Dense-AI/scientific-agent-skills)
   - Broad scientific-skill pack for research agents, covering literature review, domain databases, analysis pipelines, and scientific writing workflows.
+
+- [Ar9av/PaperOrchestra](https://github.com/Ar9av/PaperOrchestra)
+  [![GitHub stars](https://img.shields.io/github/stars/Ar9av/PaperOrchestra?style=flat)](https://github.com/Ar9av/PaperOrchestra)
+  - Skill-pack implementation of the PaperOrchestra multi-agent paper-writing pipeline, with benchmark/autorater helpers and host-agent integrations for Claude Code, OpenClaw, Cursor, and similar runtimes.
 
 - [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
   [![GitHub stars](https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=flat)](https://github.com/nishiwen1214/ChatReviewer)
