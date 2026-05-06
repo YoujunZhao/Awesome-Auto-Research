@@ -246,6 +246,14 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/AI4Scientist/nano-scientist?style=flat)](https://github.com/AI4Scientist/nano-scientist)
   - Budget-aware autonomous research agent that turns a topic into a peer-reviewed technical report with artifacts, LaTeX, and PDF outputs.
 
+- [WecoAI/aideml](https://github.com/WecoAI/aideml)
+  [![GitHub stars](https://img.shields.io/github/stars/WecoAI/aideml?style=flat)](https://github.com/WecoAI/aideml)
+  - AIDE ML, a code-search-based machine-learning engineering agent that automates iterative AI R&D and is directly tied to MLE-bench style research-agent evaluation.
+
+- [yifangao112/Camyla](https://github.com/yifangao112/Camyla)
+  [![GitHub stars](https://img.shields.io/github/stars/yifangao112/Camyla?style=flat)](https://github.com/yifangao112/Camyla)
+  - Autonomous medical-image-segmentation research system that runs literature review, experimentation, and manuscript writing end to end, plus releases the CamylaBench benchmark.
+
 ## AutoResearch Loop Variants
 
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
@@ -541,6 +549,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher)
   [![GitHub stars](https://img.shields.io/github/stars/mshumer/OpenDeepResearcher?style=flat)](https://github.com/mshumer/OpenDeepResearcher)
   - Early influential open implementation of the OpenAI-style deep research workflow built around iterative search, reading, and report synthesis.
+
+- [qx-labs/agents-deep-research](https://github.com/qx-labs/agents-deep-research)
+  [![GitHub stars](https://img.shields.io/github/stars/qx-labs/agents-deep-research?style=flat)](https://github.com/qx-labs/agents-deep-research)
+  - OpenAI Agents SDK based deep-research framework with iterative and section-parallel report modes, useful as a practical reference for extensible multi-agent report generation.
 
 - [AkariAsai/OpenScholar](https://github.com/AkariAsai/OpenScholar)
   [![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat)](https://github.com/AkariAsai/OpenScholar)
