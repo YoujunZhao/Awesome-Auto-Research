@@ -44,6 +44,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/dzhng/deep-research?style=flat)](https://github.com/dzhng/deep-research)
   - Lightweight but influential deep-research reference implementation with iterative planning + web evidence collection.
 
+- [liyuan24/nanoDeepResearch](https://github.com/liyuan24/nanoDeepResearch)
+  [![GitHub stars](https://img.shields.io/github/stars/liyuan24/nanoDeepResearch?style=flat)](https://github.com/liyuan24/nanoDeepResearch)
+  - From-scratch deep-research implementation that exposes planner, researcher, coder, and reporter stages clearly, making it a useful reference for understanding DeerFlow-style research loops.
+
 - [shibing624/WebResearcher](https://github.com/shibing624/WebResearcher)
   [![GitHub stars](https://img.shields.io/github/stars/shibing624/WebResearcher?style=flat)](https://github.com/shibing624/WebResearcher)
   - Iterative deep-research agent focused on web evidence collection and report generation.
