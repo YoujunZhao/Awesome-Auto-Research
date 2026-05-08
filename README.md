@@ -178,6 +178,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/ML-Master?style=flat)](https://github.com/sjtu-sai-agents/ML-Master)
   - Ultra-long-horizon agentic-science framework for machine learning engineering, notable for its cognitive accumulation architecture and strong MLE-bench results.
 
+- [sjtu-sai-agents/PhysMaster](https://github.com/sjtu-sai-agents/PhysMaster)
+  [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/PhysMaster?style=flat)](https://github.com/sjtu-sai-agents/PhysMaster)
+  - Autonomous physics-research system that uses MCTS-style exploration, multi-agent critique, and a physics knowledge layer to solve long-horizon theoretical problems and distill reusable scientific wisdom.
+
 - [openags/auto-research](https://github.com/openags/auto-research)
   [![GitHub stars](https://img.shields.io/github/stars/openags/auto-research?style=flat)](https://github.com/openags/auto-research)
   - Open Autonomous Generalist Scientist framework spanning literature review, experiments, manuscript writing, and peer-review loops in a unified multi-agent workspace.
@@ -475,6 +479,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [InternScience/ResearchClawBench](https://github.com/InternScience/ResearchClawBench)
   [![GitHub stars](https://img.shields.io/github/stars/InternScience/ResearchClawBench?style=flat)](https://github.com/InternScience/ResearchClawBench)
   - Benchmark suite for automated research agents spanning re-discovery and new-discovery evaluation settings.
+
+- [sjtu-sai-agents/PRL_Bench](https://github.com/sjtu-sai-agents/PRL_Bench)
+  [![GitHub stars](https://img.shields.io/github/stars/sjtu-sai-agents/PRL_Bench?style=flat)](https://github.com/sjtu-sai-agents/PRL_Bench)
+  - Physics-research benchmark built from recent Physical Review Letters papers, targeting long-horizon, exploration-heavy scientific workflows with verifiable outputs.
 
 - [InternScience/SGI-Bench](https://github.com/InternScience/SGI-Bench)
   [![GitHub stars](https://img.shields.io/github/stars/InternScience/SGI-Bench?style=flat)](https://github.com/InternScience/SGI-Bench)
