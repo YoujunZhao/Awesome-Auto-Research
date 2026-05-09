@@ -436,6 +436,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/Future-House/aviary?style=flat)](https://github.com/Future-House/aviary)
   - Language-agent gym with challenging scientific tasks for evaluating research-capable agents.
 
+- [allenai/discoveryworld](https://github.com/allenai/discoveryworld)
+  [![GitHub stars](https://img.shields.io/github/stars/allenai/discoveryworld?style=flat)](https://github.com/allenai/discoveryworld)
+  - Virtual scientific-discovery environment for developing and evaluating automated research agents on experiment-like tasks with grounded world-state feedback.
+
 - [facebookresearch/aira-dojo](https://github.com/facebookresearch/aira-dojo)
   [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/aira-dojo?style=flat)](https://github.com/facebookresearch/aira-dojo)
   - Framework for developing and evaluating AI research agents.
@@ -565,6 +569,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [qx-labs/agents-deep-research](https://github.com/qx-labs/agents-deep-research)
   [![GitHub stars](https://img.shields.io/github/stars/qx-labs/agents-deep-research?style=flat)](https://github.com/qx-labs/agents-deep-research)
   - OpenAI Agents SDK based deep-research framework with iterative and section-parallel report modes, useful as a practical reference for extensible multi-agent report generation.
+
+- [NVlabs/UniversalDeepResearch](https://github.com/NVlabs/UniversalDeepResearch)
+  [![GitHub stars](https://img.shields.io/github/stars/NVlabs/UniversalDeepResearch?style=flat)](https://github.com/NVlabs/UniversalDeepResearch)
+  - NVIDIA's code release for the Universal Deep Research paper, covering instruction-following-oriented deep-research training/evaluation recipes that complement system-level agent frameworks.
 
 - [AkariAsai/OpenScholar](https://github.com/AkariAsai/OpenScholar)
   [![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat)](https://github.com/AkariAsai/OpenScholar)
