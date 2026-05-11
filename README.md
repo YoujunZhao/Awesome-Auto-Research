@@ -254,6 +254,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/AI4Scientist/nano-scientist?style=flat)](https://github.com/AI4Scientist/nano-scientist)
   - Budget-aware autonomous research agent that turns a topic into a peer-reviewed technical report with artifacts, LaTeX, and PDF outputs.
 
+- [Future-House/robin](https://github.com/Future-House/robin)
+  [![GitHub stars](https://img.shields.io/github/stars/Future-House/robin?style=flat)](https://github.com/Future-House/robin)
+  - Multi-agent scientific-discovery system from FutureHouse for orchestrating literature-grounded research workflows.
+
 - [WecoAI/aideml](https://github.com/WecoAI/aideml)
   [![GitHub stars](https://img.shields.io/github/stars/WecoAI/aideml?style=flat)](https://github.com/WecoAI/aideml)
   - AIDE ML, a code-search-based machine-learning engineering agent that automates iterative AI R&D and is directly tied to MLE-bench style research-agent evaluation.
@@ -291,6 +295,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   [![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   - ARIS markdown-skill autoresearch workflow for autonomous ML idea exploration, cross-model review, and experiment iteration.
+
+- [Xiangyue-Zhang/auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)
+  [![GitHub stars](https://img.shields.io/github/stars/Xiangyue-Zhang/auto-deep-researcher-24x7?style=flat)](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)
+  - Leader-worker autoresearch system for 24/7 deep-learning experimentation with constant-size memory and lightweight monitoring.
 
 - [LigphiDonk/Oh-my--paper](https://github.com/LigphiDonk/Oh-my--paper)
   [![GitHub stars](https://img.shields.io/github/stars/LigphiDonk/Oh-my--paper?style=flat)](https://github.com/LigphiDonk/Oh-my--paper)
