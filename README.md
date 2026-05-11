@@ -194,6 +194,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/OmniScientist?style=flat)](https://github.com/tsinghua-fib-lab/OmniScientist)
   - Holistic AI-scientist blueprint spanning idea generation, experiment design, execution loops, and paper-oriented outputs.
 
+- [UniPat-AI/UniScientist](https://github.com/UniPat-AI/UniScientist)
+  [![GitHub stars](https://img.shields.io/github/stars/UniPat-AI/UniScientist?style=flat)](https://github.com/UniPat-AI/UniScientist)
+  - Cross-disciplinary AI-scientist model and agentic research loop that synthesizes evidence, uses research tools, and aggregates multiple rollouts into benchmarked research reports.
+
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
   [![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=flat)](https://github.com/SkyworkAI/DeepResearchAgent)
   - Hierarchical multi-agent architecture for deep research.
@@ -397,6 +401,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw)
   [![GitHub stars](https://img.shields.io/github/stars/beita6969/ScienceClaw?style=flat)](https://github.com/beita6969/ScienceClaw)
   - OpenClaw-based research workspace tailored to scientists, emphasizing self-evolving skills, persistent memory, and long-duration research sessions.
+
+- [SpectrAI-Initiative/InnoClaw](https://github.com/SpectrAI-Initiative/InnoClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/SpectrAI-Initiative/InnoClaw?style=flat)](https://github.com/SpectrAI-Initiative/InnoClaw)
+  - Self-hostable AI research workspace for grounded chat over local files, paper study, reusable scientific skills, and remote experiment execution.
 
 ## Auto Research Benchmarks
 
