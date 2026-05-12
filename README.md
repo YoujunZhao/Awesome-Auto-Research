@@ -150,6 +150,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/InternScience/SciDataCopilot?style=flat)](https://github.com/InternScience/SciDataCopilot)
   - Agentic data-preparation framework for AGI-driven scientific discovery, filling an important upstream layer between raw scientific data and autonomous experiment agents.
 
+- [InternScience/MLEvolve](https://github.com/InternScience/MLEvolve)
+  [![GitHub stars](https://img.shields.io/github/stars/InternScience/MLEvolve?style=flat)](https://github.com/InternScience/MLEvolve)
+  - Autonomous end-to-end machine-learning algorithm design and optimization system built around progressive search and experience-driven memory.
+
 - [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist)
   [![GitHub stars](https://img.shields.io/github/stars/ResearAI/DeepScientist?style=flat)](https://github.com/ResearAI/DeepScientist)
   - DeepScientist framework for autonomous scientific workflows.
@@ -189,6 +193,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [Just-Curieous/Curie](https://github.com/Just-Curieous/Curie)
   [![GitHub stars](https://img.shields.io/github/stars/Just-Curieous/Curie?style=flat)](https://github.com/Just-Curieous/Curie)
   - End-to-end AI-agent framework for rigorous scientific experimentation, from hypothesis formulation through result interpretation.
+
+- [allenai/codescientist](https://github.com/allenai/codescientist)
+  [![GitHub stars](https://img.shields.io/github/stars/allenai/codescientist?style=flat)](https://github.com/allenai/codescientist)
+  - Automated scientific-discovery system for code-based experiments, useful as a concrete reference for experiment-loop agents that iterate directly over executable research code.
 
 - [tsinghua-fib-lab/OmniScientist](https://github.com/tsinghua-fib-lab/OmniScientist)
   [![GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/OmniScientist?style=flat)](https://github.com/tsinghua-fib-lab/OmniScientist)
