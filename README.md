@@ -76,6 +76,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=flat)](https://github.com/Future-House/paper-qa)
   - High-accuracy scientific-document QA with citations.
 
+- [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok)
+  [![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/k-dense-byok?style=flat)](https://github.com/K-Dense-AI/k-dense-byok)
+  - Desktop AI co-scientist workspace that routes tasks across specialist agents, scientific skills, databases, and optional remote compute while keeping projects local and user-controlled.
+
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)
   [![GitHub stars](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory?style=flat)](https://github.com/SamuelSchmidgall/AgentLaboratory)
   - End-to-end autonomous research workflow with agent roles.
@@ -410,6 +414,10 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/beita6969/ScienceClaw?style=flat)](https://github.com/beita6969/ScienceClaw)
   - OpenClaw-based research workspace tailored to scientists, emphasizing self-evolving skills, persistent memory, and long-duration research sessions.
 
+- [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw)
+  [![GitHub stars](https://img.shields.io/github/stars/AgentTeam-TaichuAI/ScienceClaw?style=flat)](https://github.com/AgentTeam-TaichuAI/ScienceClaw)
+  - Fast-growing personal research-assistant stack built on DeepAgents plus sandboxed local execution, with a large built-in scientific tool/skill inventory and privacy-first workflow design.
+
 - [SpectrAI-Initiative/InnoClaw](https://github.com/SpectrAI-Initiative/InnoClaw)
   [![GitHub stars](https://img.shields.io/github/stars/SpectrAI-Initiative/InnoClaw?style=flat)](https://github.com/SpectrAI-Initiative/InnoClaw)
   - Self-hostable AI research workspace for grounded chat over local files, paper study, reusable scientific skills, and remote experiment execution.
@@ -495,6 +503,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [CherYou/AutoResearchBench](https://github.com/CherYou/AutoResearchBench)
   [![GitHub stars](https://img.shields.io/github/stars/CherYou/AutoResearchBench?style=flat)](https://github.com/CherYou/AutoResearchBench)
   - Benchmark for complex scientific literature-discovery tasks, directly targeting the retrieval and evidence-selection behaviors that auto-research systems rely on.
+
+- [OSU-NLP-Group/ScienceAgentBench](https://github.com/OSU-NLP-Group/ScienceAgentBench)
+  [![GitHub stars](https://img.shields.io/github/stars/OSU-NLP-Group/ScienceAgentBench?style=flat)](https://github.com/OSU-NLP-Group/ScienceAgentBench)
+  - Rigorous benchmark for data-driven scientific-discovery agents, with expert-validated tasks extracted from real papers and a recently refreshed verified split for cleaner evaluation.
 
 - [AIDC-AI/Marco-DeepResearch](https://github.com/AIDC-AI/Marco-DeepResearch)
   [![GitHub stars](https://img.shields.io/github/stars/AIDC-AI/Marco-DeepResearch?style=flat)](https://github.com/AIDC-AI/Marco-DeepResearch)
