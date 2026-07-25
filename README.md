@@ -140,6 +140,14 @@ A curated list of open-source projects for autonomous and agentic research.
   [![GitHub stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=flat)](https://github.com/ruc-datalab/DeepAnalyze)
   - Agentic data-science system for autonomous analysis over structured and unstructured data, with deep-research style report generation.
 
+- [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon)
+  [![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=flat)](https://github.com/AutoResearch-Factory/Agon)
+  - Autonomous research orchestrator that treats prompt engineering as an engineering discipline, using 18 roles and 230.6 KiB of prompts across more than ten research fields.
+
+- [Daviddjddu/Autonumerics](https://github.com/Daviddjddu/Autonumerics)
+  [![GitHub stars](https://img.shields.io/github/stars/Daviddjddu/Autonumerics?style=flat)](https://github.com/Daviddjddu/Autonumerics)
+  - Multi-agent pipeline that designs, implements, and residual-verifies classical numerical PDE solvers from natural-language problem statements.
+
 ## AI Scientist Family & Deep Scientist
 
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
@@ -563,6 +571,10 @@ A curated list of open-source projects for autonomous and agentic research.
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench)
   [![GitHub stars](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=flat)](https://github.com/SWE-bench/SWE-bench)
   - Widely used benchmark for real-world software task solving, useful for research-agent engineering evaluation.
+
+- [WhymustIhaveaname/PerspectiveGap](https://github.com/WhymustIhaveaname/PerspectiveGap)
+  [![GitHub stars](https://img.shields.io/github/stars/WhymustIhaveaname/PerspectiveGap?style=flat)](https://github.com/WhymustIhaveaname/PerspectiveGap)
+  - The first benchmark for multi-agent orchestration prompt writing, covering 110 scenarios and 10 topologies with omission and cross-role leakage metrics.
 
 ## Deep Research Infrastructure & Tools
 
